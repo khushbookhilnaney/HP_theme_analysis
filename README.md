@@ -6,7 +6,7 @@ This project scrapes, summarizes, and analyzes editorial articles from MuggleNet
 - Web scraping via Selenium
 - Article summarization using OpenAI GPT
 - Theme extraction and semantic comparison
-- CSV exports + optional heatmap visualization
+- CSV exports 
 
 ## Setup
 1. Clone the repo
